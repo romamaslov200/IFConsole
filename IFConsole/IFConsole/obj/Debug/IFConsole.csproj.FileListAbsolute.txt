@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Уханев иМаслов\IFConsole\IFConsole\bin\Debug\IFConsole.exe.config
+C:\Users\User\Desktop\Уханев иМаслов\IFConsole\IFConsole\bin\Debug\IFConsole.exe
+C:\Users\User\Desktop\Уханев иМаслов\IFConsole\IFConsole\bin\Debug\IFConsole.pdb
+C:\Users\User\Desktop\Уханев иМаслов\IFConsole\IFConsole\obj\Debug\IFConsole.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Уханев иМаслов\IFConsole\IFConsole\obj\Debug\IFConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Уханев иМаслов\IFConsole\IFConsole\obj\Debug\IFConsole.exe
+C:\Users\User\Desktop\Уханев иМаслов\IFConsole\IFConsole\obj\Debug\IFConsole.pdb
